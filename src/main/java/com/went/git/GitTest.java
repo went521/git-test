@@ -16,6 +16,7 @@ public class GitTest {
         System.out.println("hello3 tset");
         System.out.println("hello3 tset");
         System.out.println("push tset");
+                System.out.println("pull tset");
 
     }
 }
